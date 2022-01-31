@@ -1,0 +1,70 @@
+.remark-slide-content {
+  font-size: 24pt;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+  color: #562457;
+}
+a, a > code {
+  color: #88398a;
+}
+.remark-code-line-highlighted { background-color: rgba(136, 57, 138, 0.3); }
+
+.inverse {
+  background-color: #562457;
+}
+.inverse, .inverse h1, .inverse h2, .inverse h3, .inverse a, inverse a > code {
+  color: #fff;
+}
+
+/* Two-column layout */
+.left-column {
+  width: 80%;
+  float: left;
+  margin-top: -30px;
+}
+
+.right-column {
+  width: 15%;
+  float: right;
+  margin-top: -70px;
+}
+
+.pull-left {
+  float: left;
+  width: 47%;
+  margin-top: -30px;
+}
+.pull-right {
+  float: right;
+  width: 47%;
+  margin-top: -30px;
+}
+
+.chapter-slide {
+  background-image: url("./LatinR_LOGOS-23.png"), linear-gradient(to bottom, #562457 1%, rgba(86, 36, 87) 95%) ;
+  background-position: 10px 590px , center;
+  background-size: 0px, cover ;
+  font-family: Sans-Serif;
+}
+
+.chapter-slide h1 {
+  position: absolute;
+  top: 55%;
+  left: 10%;
+  text-align: left;
+  color: #ECECEC;
+  font-size: 34pt;
+  font-family: Sans-Serif;
+}
+
+.chapter-slide h2 {
+  font-size: 32pt;
+  color: #ffffff ;
+  font-family: Sans-Serif;
+}
+
+.big-font h1 {
+  font-size: 100pt;
+}
