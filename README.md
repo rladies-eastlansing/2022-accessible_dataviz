@@ -26,4 +26,4 @@ R-Ladies East Lansing is a chapter of R-Ladies Global, an organization whose mis
 - Kayla Johnson | john3491@msu.edu
 - Stephanie Hickey | hickeys6@msu.edu
 - Janani Ravi | janani@msu.edu
-- eastlansing@rladies.org | [@RLadiesELansing](https://twitter.com/RLadiesELansing) | <meetup.com/rladies-eastlansing> | <rladies-eastlansing.github.io> | <rladies-eastlansing.slack.com>
+- eastlansing@rladies.org | [@RLadiesELansing](https://twitter.com/RLadiesELansing) | [Meetup](https://meetup.com/rladies-eastlansing) | [Website](https://rladies-eastlansing.github.io) | [Slack](https://rladies-eastlansing.slack.com)
