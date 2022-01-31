@@ -11,16 +11,18 @@ Please RSVP on Meetup and follow instructions to receive the Zoom details: meetu
 ## Speakers
 Our first speaker, **Keke Wu** (PhD student at Univ of Colorado, Boulder) will talk about her research, Understanding Data Accessibility for People with Intellectual and Developmental Disabilities (IDD), giving us concrete ideas about how to make better figures and reach the IDD community. <br>
 Website: https://www.kekewu.me/ <br>
-Twitter: https://twitter.com/kekewu728
+Twitter: https://twitter.com/kekewu728 <br>
+[Presentation material](https://rladies-eastlansing.github.io/2022-accessible_dataviz/KekeW/AccessibleVIS-KekeWu.pdf)
 
 Our second speaker, **Andrea Gomez Vargas** (one of the winners of the ‘most accessible presentation’ award at useR! 2021), will talk about how to make an accessible presentation in R, using packages such as RMarkdown. <br>
 Website: https://soyandrea.netlify.app/ <br>
-Twitter: https://twitter.com/me_andre
+Twitter: https://twitter.com/me_andre <br>
+[Presentation material](https://rladies-eastlansing.github.io/2022-accessible_dataviz/AndreaGV/Andrea-RLadies_EastLansing.html) | [Supporting code](https://github.com/rladies-eastlansing/2022-accessible_dataviz/blob/main/AndreaGV/Andrea-RLadies_EastLansing.Rmd)
 
 ## About the meetup
 R-Ladies East Lansing is a chapter of R-Ladies Global, an organization whose mission is to promote gender diversity in the R programming community, but if you use data visualization in any capacity, this meetup is for you. Hope to see you there!
 
-## Hosts
+## Hosts | How to reach us!
 - Kayla Johnson | john3491@msu.edu
 - Stephanie Hickey | hickeys6@msu.edu
 - Janani Ravi | janani@msu.edu
